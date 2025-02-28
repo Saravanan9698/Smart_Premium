@@ -3,7 +3,7 @@
     <p>It processes raw insurance data, applies feature engineering, and trains multiple regression models to find the best-performing one.</p>
 
 
-<h2>⚙ Key Features</h2>
+<h2>🚀 Key Features</h2>
     <h3>Data Preprocessing</h3>
     <ul>
         <li>Handles missing values in both numerical and categorical columns.</li>
