@@ -2,6 +2,8 @@
     <p>This project predicts insurance premium amounts using Machine Learning models.</p>
     <p>It processes raw insurance data, applies feature engineering, and trains multiple regression models to find the best-performing one.</p>
 
+<hr style="border: 2px solid red;">
+
 
 <h2>🚀 Key Features</h2>
     <h3>Data Preprocessing</h3>
