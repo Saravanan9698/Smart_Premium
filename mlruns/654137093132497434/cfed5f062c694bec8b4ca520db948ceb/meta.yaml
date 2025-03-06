@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/654137093132497434/cfed5f062c694bec8b4ca520db948ceb/artifacts
+deleted_time: 1741191470373
+end_time: 1741191364516
+entry_point_name: ''
+experiment_id: '654137093132497434'
+lifecycle_stage: deleted
+run_id: cfed5f062c694bec8b4ca520db948ceb
+run_name: SmartPremium_Run
+run_uuid: cfed5f062c694bec8b4ca520db948ceb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741191355692
+status: 3
+tags: []
+user_id: sarav

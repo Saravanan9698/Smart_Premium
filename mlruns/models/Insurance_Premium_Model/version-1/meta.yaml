@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741257650442
+current_stage: None
+description: ''
+last_updated_timestamp: 1741257650442
+name: Insurance_Premium_Model
+run_id: 60df7c8eed8147fa8ed2e89f086281b9
+run_link: ''
+source: mlflow-artifacts:/654137093132497434/60df7c8eed8147fa8ed2e89f086281b9/artifacts/Insurance_Premium_Model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/654137093132497434/60df7c8eed8147fa8ed2e89f086281b9/artifacts/Insurance_Premium_Model
+user_id: null
+version: 1

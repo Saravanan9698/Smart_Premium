@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/654137093132497434/65513b4c967e44a38ab036605420b2c8/artifacts
+deleted_time: 1741191052063
+end_time: 1741190937468
+entry_point_name: ''
+experiment_id: '654137093132497434'
+lifecycle_stage: deleted
+run_id: 65513b4c967e44a38ab036605420b2c8
+run_name: gifted-seal-581
+run_uuid: 65513b4c967e44a38ab036605420b2c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741190928612
+status: 3
+tags: []
+user_id: sarav

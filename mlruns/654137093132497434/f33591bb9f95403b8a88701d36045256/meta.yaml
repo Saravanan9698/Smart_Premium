@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/654137093132497434/f33591bb9f95403b8a88701d36045256/artifacts
+deleted_time: 1741191052081
+end_time: 1741190817608
+entry_point_name: ''
+experiment_id: '654137093132497434'
+lifecycle_stage: deleted
+run_id: f33591bb9f95403b8a88701d36045256
+run_name: abrasive-donkey-781
+run_uuid: f33591bb9f95403b8a88701d36045256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741190809055
+status: 3
+tags: []
+user_id: sarav

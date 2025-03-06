@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/654137093132497434/74c617bce44a4611a66fcca6bf92e290/artifacts
+deleted_time: 1741191330233
+end_time: 1741191024644
+entry_point_name: ''
+experiment_id: '654137093132497434'
+lifecycle_stage: deleted
+run_id: 74c617bce44a4611a66fcca6bf92e290
+run_name: sedate-pig-200
+run_uuid: 74c617bce44a4611a66fcca6bf92e290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741191016817
+status: 3
+tags: []
+user_id: sarav

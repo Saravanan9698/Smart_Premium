@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/654137093132497434/4887f2ee63e94b1eb0ef29c7c43716c5/artifacts
+deleted_time: 1741191052077
+end_time: 1741190803874
+entry_point_name: ''
+experiment_id: '654137093132497434'
+lifecycle_stage: deleted
+run_id: 4887f2ee63e94b1eb0ef29c7c43716c5
+run_name: adaptable-wolf-37
+run_uuid: 4887f2ee63e94b1eb0ef29c7c43716c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741190795082
+status: 3
+tags: []
+user_id: sarav

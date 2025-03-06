@@ -1,0 +1,20 @@
+artifact_path: Insurance_Premium_Model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 2.20.1
+model_size_bytes: 39688721
+model_uuid: 334515c687214b4d9e96cfe5d511c1ec
+run_id: 65513b4c967e44a38ab036605420b2c8
+utc_time_created: '2025-03-05 16:08:48.684830'

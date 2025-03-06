@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741199496459
+current_stage: None
+description: ''
+last_updated_timestamp: 1741199496459
+name: SmartPremiumModel
+run_id: 46c0f3ad7a98488fa57ab5425d53c41f
+run_link: ''
+source: mlflow-artifacts:/654137093132497434/46c0f3ad7a98488fa57ab5425d53c41f/artifacts/Insurance_Premium_Model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/654137093132497434/46c0f3ad7a98488fa57ab5425d53c41f/artifacts/Insurance_Premium_Model
+user_id: null
+version: 1
