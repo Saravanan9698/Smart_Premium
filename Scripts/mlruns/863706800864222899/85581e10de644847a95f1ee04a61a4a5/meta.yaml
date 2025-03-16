@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sarav/Smart_Premium/Smart_premium_ML/Scripts/mlruns/863706800864222899/85581e10de644847a95f1ee04a61a4a5/artifacts
+end_time: 1741803062355
+entry_point_name: ''
+experiment_id: '863706800864222899'
+lifecycle_stage: active
+run_id: 85581e10de644847a95f1ee04a61a4a5
+run_name: SmartPremium_Run
+run_uuid: 85581e10de644847a95f1ee04a61a4a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741803026779
+status: 3
+tags: []
+user_id: sarav
