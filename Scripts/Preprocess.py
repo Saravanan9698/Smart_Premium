@@ -111,13 +111,13 @@ class DataPreprocessor:
         return self.data
 
 # Load data dynamically
-data_path = os.path.join(os.getcwd(), r'C:\Users\sarav\Smart_Premium\Smart_premium_ML\Research_Data\train.csv')
+data_path = os.path.join(os.getcwd(), r'C:\Users\sarav\Smart_Premium\Research_Data\train.csv')
 data = pd.read_csv(data_path)
 preprocessor = DataPreprocessor(data)
 processed_data = preprocessor.preprocess()
 
 # Save preprocessor
-pickle_path = os.path.join(os.getcwd(), r'C:\Users\sarav\Smart_Premium\Smart_premium_ML\Pickles\preprocessor.pkl')
+pickle_path = os.path.join(os.getcwd(), r'C:\Users\sarav\Smart_Premium\Pickles\preprocessor.pkl')
 with open(pickle_path, 'wb') as file:
     pickle.dump(preprocessor, file)
 

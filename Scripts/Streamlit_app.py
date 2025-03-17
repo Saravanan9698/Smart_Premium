@@ -9,12 +9,12 @@ from Preprocess import DataPreprocessor
 
 @st.cache_data
 def load_model():
-    with open(r'C:\Users\sarav\Smart_Premium\Smart_premium_ML\Pickles\best_model.pkl', "rb") as file:
+    with open(r'C:\Users\sarav\Smart_Premium\Pickles\best_model.pkl', "rb") as file:
         return pickle.load(file)
 
 @st.cache_data
 def load_preprocessor():
-    with open(r'C:\Users\sarav\Smart_Premium\Smart_premium_ML\Pickles\preprocessor.pkl', "rb") as file:
+    with open(r'C:\Users\sarav\Smart_Premium\Pickles\preprocessor.pkl', "rb") as file:
         return pickle.load(file)
 
 def preprocess_user_input(user_input, preprocessor):
